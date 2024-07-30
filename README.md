@@ -1,2 +1,7 @@
-# smart_study_back
-Repository for Backend of Smart Study Project
+# typescript-boilerplate
+Minimal project to start with typescript
+
+run 
+```
+npm install
+```
